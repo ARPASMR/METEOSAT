@@ -13,3 +13,9 @@ codice per l'elaborazione delle immagini meteosat
 1,6,11,16,21,26,31,36,41,46,51,56 * * * * (sh /home/meteo/scripts/elab_rss_batch.sh > /home/meteo/log/elab_rss_batch.log 2>&1)
 
 ```
+# constraints
+viene utilizzato l'applicativo _minutes_ che aggiunge a una data un certo numero di minuti
+```
+minutes 201709011130 45
+201709011215
+```
