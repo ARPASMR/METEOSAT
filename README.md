@@ -14,7 +14,11 @@ codice per l'elaborazione delle immagini meteosat
 
 ```
 # constraints
+
 vengono utilizzati diversi applicativi esterni:
+
 _minutes_ per il calcolo della data cui viene aggiunto un certo numero di minuti
+
 _xrit-0.2.5_ utilities per la trattazione dei file METEOSAT
+
 _XRITDecompress_ non riportato per problemi di licenza Eumetsat
